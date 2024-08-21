@@ -1,1 +1,2 @@
 ce fichier sert pour détailler les chnagements apportés sur le projet. 
+il  aid aussi à la compérension du projet. 
